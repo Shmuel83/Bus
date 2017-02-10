@@ -1,0 +1,1 @@
+{"tempAir": 22, "tempMotor": 24, "state": "Stop", "idBus": "C2", "fillingRatio": 0, "longitude": 5.7180000, "latitude": 45.1894298, "speed": 0, "lastStation": "Victor Hugo"}

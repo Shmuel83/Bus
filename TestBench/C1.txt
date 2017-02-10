@@ -1,0 +1,2 @@
+[{"tempAir": 18, "tempMotor": 43, "state": "En service", "idBus": "C1", "fillingRatio": 11, "longitude": 5.816541300000034, "latitude": 45.189429800000006, "speed": 25, "lastStation": "Jean Mac\u00e9"},
+{"tempAir": 10, "tempMotor": 40, "state": "En service", "idBus": "C2", "fillingRatio": 11, "longitude": 5.816441300500330, "latitude": 45.189429810010016, "speed": 50, "lastStation": "Maupertuis"}]
